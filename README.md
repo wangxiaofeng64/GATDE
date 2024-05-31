@@ -1,5 +1,5 @@
 
-# DEGAT: Diffusion-Enhanced Graph Attention Network for Comprehensive Cancer Type Classification
+# GATDE: A graph attention network with diffusion-enhanced protein-protein interaction for cancer classification
 
 ## Project Description
 
