@@ -93,4 +93,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgements
 
-This research was conducted at Nankai University, supported by the college of software and School of Mathematical Sciences.
+This research was conducted at Nankai University, supported by the College of Software and School of Mathematical Sciences.
